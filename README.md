@@ -2,7 +2,7 @@
 
 The project provided a unified source of data for a multinational company that sells various goods across the globe.
 Their sales data is spread across many different data sources making it not easily accessible or analysable by current members of the team.
-This project enables to the company to make its sales data accessible from one central location. In an effort to become more data-driven, your organisation would like to make its sales data accessible from one centralised location. 
+This project enables to the company to make its sales data accessible from one central location and to make its sales data accessible from one centralised location. 
 
 ## Files
 The python files created to extract, clean, upload and process the data are: 
